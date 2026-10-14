@@ -1,8 +1,8 @@
-# [NAMA TIM] — Digital Problem Framing Mini Project
+# [LAUVI] — Digital Problem Framing Mini Project
 
 ## Tim
 
-| felyn | NIM | Phase Lead untuk Fase |
+| Felyna Irma Najwa | 2600016005| Phase Lead untuk Fase |
 |---|---|---|
 | [Felyna irma najwa] | [2600016005] | Discover, Build |
 | [Fira safitri] | [260001642] | Frame, Test |
@@ -14,9 +14,9 @@
 ## Objek Studi
 
 - **Nama Unit Usaha**: [Laundry wash smile]
-- **Lokasi**: [contoh: Gedung A, Lantai 1]
-- **Pemilik**: [nama, kontak]
-- **Jenis Usaha**: [contoh: Kantin / Warung / Koperasi]
+- **Lokasi**: [JL.Patih Singoranu Ruko A No.171,Kragilan,Tamanan, Kec.Banguntapan.Kabupaten Bantul,Daerah Istimewa Yogyakarta 55191 ]
+- **Pemilik**: [Nandya Aripta Sukma Yanti]
+- **Jenis Usaha**: [Laundry Wash smile]
 
 ## Driving Question
 
