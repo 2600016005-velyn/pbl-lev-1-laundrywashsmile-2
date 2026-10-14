@@ -2,7 +2,7 @@
 
 ## Tim
 
-| Nama | NIM | Phase Lead untuk Fase |
+| felyn | NIM | Phase Lead untuk Fase |
 |---|---|---|
 | [Felyna irma najwa] | [2600016005] | Discover, Build |
 | [Fira safitri] | [260001642] | Frame, Test |
