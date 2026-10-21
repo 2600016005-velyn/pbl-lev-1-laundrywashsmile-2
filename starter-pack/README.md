@@ -2,12 +2,13 @@
 
 ## Tim
 
-| Felyna Irma Najwa | 2600016005| Phase Lead untuk Fase |
+| NAMA | NIM | Phase Lead untuk Fase |
 |---|---|---|
-| [Felyna irma najwa] | [2600016005] | Discover, Build |
-| [Fira safitri] | [260001642] | Frame, Test |
-| [Difa Lilensia] | [260001641] | Define, Communicate |
-| [Nimah laeli sundari] | [2600016004] | Design, Reflect |
+| [Felyna Irma Najwa] | [2600016005] | Discover, Communicate |
+| [Aulia Safitri] | [2600016030] | Design, Reflect |
+| [Fira Safitri] | [260001642] | Frame |
+| [Difa Lilensia] | [260001641] | Define, Test |
+| [Nimah Laeli Sundari] | [2600016004] | Build |
 
 > **Aturan**: Tim memakai **rotating phase lead** — tidak ada peran permanen. Setiap anggota memimpin minimal satu fase. Jadwal fase awal ditetapkan di WS01 dan dapat disesuaikan sepanjang semester.
 
