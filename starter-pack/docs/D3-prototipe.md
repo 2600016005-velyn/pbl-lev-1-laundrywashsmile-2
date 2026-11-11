@@ -21,11 +21,9 @@
  Berat (Kg): 8 Kg
  Total tagihan: Rp 36,000
  Uang Tunai Pembayaran: 36000
-
 ===========================================================
                NOTA TRANSAKSI WASH SMILE LAUNDRY
 ============================================================
-
  NO. Nota   : TRX20261111080027
  Pelanggan  : aulia (082323209094)
  Layanan    : Cuci Strika Reguler 
