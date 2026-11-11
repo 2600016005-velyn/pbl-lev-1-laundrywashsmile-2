@@ -249,8 +249,8 @@ Related Files:
 ### 1. Daftar Penggunaan AI
 | Artefak | Tool AI | Bagian yang Dibantu | Modifikasi yang Dilakukan |
 |---|---|---|---|
-| D1 | [Gemini ai] | [Deskripsi singkat operasional di loundri itu di isi
-apa jika masalahnya nota yang dicatat manual] | [merubah kata-kata deskripsi singkat operasional tentang masalah nota yang dicatat manual] |
+| D1 | [Gemini ai] | [Deskripsi singkat operasional di laudry itu di isi
+apa jika masalahnya nota yang dicatat manual] | [memperbaiki kata-kata deskripsi singkat operasional tentang masalah nota yang dicatat manual] |
 | D2 | ... | ... | ... |
 | D3 | ... | ... | ... |
 | D4 | ... | ... | ... |
@@ -258,14 +258,15 @@ apa jika masalahnya nota yang dicatat manual] | [merubah kata-kata deskripsi sin
 ### 2. Verification Note
 | Artefak | Yang Dicek Ulang Manual | Cara Verifikasi |
 |---|---|---|
-| D1 | [angka/klaim] | [hitung ulang, cek sumber] |
+| D1 | [Data/ perhitungan yang digunakan 
+dari WS sebelumnya] | [Mengecek ulang informasi dan mencocokkan data sumber infprmasi] |
 | D2 | ... | ... |
 | D3 | [sintaks & logika] | [jalankan di mesin, uji kasus] |
 | D4 | [fakta & bahasa] | [cek kebenaran isi] |
 
 ### 3. Pernyataan Kejujuran
 Kami menyatakan daftar di atas lengkap dan jujur. Seluruh output AI telah dianalisis, dimodifikasi, dan diverifikasi secara manual.
-Tanda tangan seluruh anggota: [nama] / [nama] / [nama] / [nama]
+Tanda tangan seluruh anggota: [Aulia Safitri (2600016030), Felyna Irma Najwa (2600016005), Fira Safitri (2600016042), Difa Lilensia (2600016041), Ni'mah Laeli Sundari (2600016004) ]
 
 ## TPL-08 — Template Decision Log (Supporting Evidence)
 *Dipenuhi dari hasil WS08, WS12, WS15.*
