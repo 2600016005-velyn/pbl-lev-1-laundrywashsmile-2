@@ -1,7 +1,7 @@
 # D3 — Dokumentasi Prototipe & Hasil Uji
 
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — [ laundry wash smile]
+**Tim**: [velna irma najwa, Aulia safitri, Ni'mah laeli sundari, Fira safitri, Difa lilensia] | **Tanggal**: [11/11/2026] | **Versi**: [v1.0]
 **Template**: TPL-03
 
 > **Petunjuk**: Hapus teks dalam `[...]` dan huruf miring setelah diisi.
@@ -11,7 +11,7 @@
 
 ## 1. Ringkasan Solusi
 
-- **Masalah yang diselesaikan**: [dari D1]
+- **Masalah yang diselesaikan**: [ proyek yang dikerjakan pada penelitian ini adalah pembuatan Website Sistem Reminder Pakaian Yang tidak di ambil Pada Laundry. Website ini dibuat untuk membantu pihak laundry dalam menangani permasalahan pelanggan yang tidak mengambil pakaian bisa dari 1 bulan ]
 - **Bentuk prototipe**: [konsol / menu]
 - **Alur utama (input → proses → output)**: [penjelasan singkat]
 
