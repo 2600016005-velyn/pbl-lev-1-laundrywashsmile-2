@@ -12,28 +12,35 @@
 ## 1. Profil Organisasi / Unit Usaha
 
 - **Nama unit usaha**: [Wash Smile Laundry]
-- **Jenis usaha / layanan**: [mis. kantin kampus, warung, koperasi, unit layanan kampus]
-- **Lokasi**: [lokasi]
-- **Deskripsi singkat operasional**: [apa yang dilakukan, siapa pengguna, kapan beroperasi]
-- **Narahubung / pemilik**: [nama, jabatan, kontak]
+- **Jenis usaha / layanan**: Jasa Laundry Kiloan & Satuan
+- **Lokasi**: Jl. Patih Singoranu Ruko A No. 171, Kragilan, Tamanan, Kec. Banguntapan, Kab. Bantul, D.I. Yogyakarta 55191 (±400 meter di belakang Kampus 4 UAD)
+- **Deskripsi singkat operasional**: Kegiatan operasional meliputi penerimaan pakaian, proses pencucian, pengeringan, penyetrikaan, hingga pengemasan dan penyerahan kepada pelanggan , Pelanggan, 07.00-23.00
+- **Narahubung / pemilik**: Nandya Aripta Sukma Yanti / +62 812-2591-6486 (Pemilik Usaha)
 
 ## 2. Deskripsi Masalah Utama
 
-- **Masalah utama**: [pernyataan masalah yang jelas — fokus pada MASALAH, bukan solusi]
-- **Pihak yang terdampak**: [siapa terkena dampak dan bagaimana]
-- **Frekuensi / keparahan**: [kapan terjadi, seberapa sering, seberapa mengganggu]
-
+- **Masalah utama**: Masalah utama yang terjadi pada WashSmile Loundry yaitu pencatatan nota yang masih dilakukan secara manual, Sehingga pencatatan masih ditulis tangan dengan menghabiskan rata-rata waktu 60 detik per pelanggan
+- **Pihak yang terdampak**: Pihak yang terdampak adalah staff WashSmile Loundry, karena staff harus menulis jenis pencucian, penimbangan, dan menghitung total harga. Hal ini menyita cukup banyak waktu yang seharusnya bisa digunakan untuk memulai  proses pencucian, penyetrikaan, dan penataan. Apalagi dimalam hari staff harus melakukan rekapitulasi dengan menyalin satu per satu nota ke buku rekap. 
+- **Frekuensi / keparahan**: Masalah ini terjadi setiap hari dan terus menerus selama staff masih mencatat secara manual di kertas nota. Tingkat keparahan nya tinggi karena memicu penumpukan antrean terutama pada hari ramai seperti sabtu dan minggu. 
 ## 3. Batasan Sistem (Scope)
 
-- **Diselesaikan dalam proyek ini**: [fitur/cakupan yang dikerjakan]
-- **Tidak diselesaikan (dan alasan)**: [di luar cakupan + alasan]
+- **Diselesaikan dalam proyek ini**: Dalam proyek ini kita menggunakan sistem nota secara digital dengan menggunakan kode program kasir & manajemen laundry berbasis python (CLI)     
+- **Tidak diselesaikan (dan alasan)**: Sistem tidak mencakup layanan pengantaran pakaian ke rumah pelanggan, karena hal tersebut merupakan kebijakan operasional di luar sistem.
 - **Asumsi yang dipakai**: [asumsi kunci]
+**Diselesaikan dalam proyek ini**: Dalam proyek ini kita menggunakan sistem nota secara digital dengan menggunakan kode program kasir & manajemen laundry berbasis python (CLI)     
+- **Tidak diselesaikan (dan alasan)**: Sistem tidak mencakup layanan pengantaran pakaian ke rumah pelanggan, karena hal tersebut merupakan kebijakan operasional di luar sistem.
+- **Asumsi yang dipakai**: Bukti Transaksi Berbasis ID/Resi digital pelanggan mendapatkan kode ID transaksi (resi) dari layar terminal sebagai bukti sah untuk pengambilan barang, menggantikan nota kertas fisik,dan memuahkan staf untuk mempersingkat waktu dalam pencatatan
+## 4. Data Kuantitatif Pendukung|
+|Indikator | Nilai/Baseline | Sumber Data | Tanggal |
+|---|---|---|---|
+| [mis. waktu pelayanan] | [4] | [wawancara] | [23 oktober 2026] |
+| [mis. jumlah transaksi per hari] | [7] | [observasi] | [ 9 oktober 2026] |
+| [] | | | |
 
-## 4. Data Kuantitatif Pendukung
 
 | Indikator | Nilai/Baseline | Sumber Data | Tanggal |
 |---|---|---|---|
-| [mis. waktu layanan rata-rata] | [angka] | [observasi/wawancara] | [DD/MM] |
+| [mis. waktu layanan rata-rata] | [angka] | [swawancara] | [DD/MM] |
 | [mis. jumlah transaksi per hari] | [angka] | [observasi] | [DD/MM] |
 | [tambah baris jika perlu] | | | |
 
