@@ -203,8 +203,8 @@ if __name__ == '__main__':
 
 ## 5. Hasil Validasi Pemilik Usaha
 
-- **Tanggal validasi**: [DD/MM/YYYY]
-- **Feedback pemilik**: [...]
+- **Tanggal validasi**: [21-10-2026]
+- **Feedback pemilik**: [: Pemilik menyetujui seluruh kebutuhan fungsional (pencatatan transaksi kasir, pembatasan beban 8 kg per mesin cuci, pemotongan stok deterjen otomatis, dan laporan rekap omzet harian). Mitra menekankan bahwa pembayaran harus di awal (kasir tidak memproses cucian jika belum lunas tunai/QRIS).]
 - **Perubahan setelah validasi**: [...]
 
 ---
