@@ -29,14 +29,14 @@ Related Files:
 
 ## Problem Brief
 **Project**: Digital Problem Framing Mini Project — [Wash Smile Laundry]
-**Tim**: [Aulia Safitri] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Tim**: [Aulia Safitri] | **Tanggal**: [11-11-2026 | **Versi**: [v1.0]
 
 ### 1. User / Context
-- Nama unit usaha / organisasi: [nama]
-- Jenis usaha / layanan: [mis. kantin kampus, warung, koperasi]
-- Lokasi: [lokasi]
-- Deskripsi operasional: [apa yang dilakukan, siapa pengguna, kapan beroperasi]
-- Narahubung / pemilik: [nama, jabatan, kontak]
+- Nama unit usaha / organisasi: [washsmile laundry]
+- Jenis usaha / layanan: [Jasa Laundry Kiloan & Satuan]
+- Lokasi: [ Jl. Patih Singoranu Ruko A No. 171, Kragilan, Tamanan, Kec. Banguntapan, Kab. Bantul, D.I. Yogyakarta 55191 (±400 meter di belakang Kampus 4 UAD) ]
+- Deskripsi operasional: [Kegiatan operasional meliputi penerimaan pakaian, proses pencucian, pengeringan, penyetrikaan, hingga pengemasan dan penyerahan kepada pelanggan , Pelanggan, 07.00-23.00]
+- Narahubung / pemilik: [Nandya Aripta Sukma Yanti / +62 812-2591-6486 (Pemilik Usaha)]
 
 ### 2. Observed Situation (Situasi yang Diamati)
 - Fenomena yang diamati di lapangan: [...]
