@@ -1,7 +1,7 @@
 # D1 — Problem Brief
 
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — [Wash Smile Laundry]
+**Tim**: Aulia Safitri (2600016030), Felyna Irma Najwa (2600016005), Fira Safitri (2600016042), Difa Lilensia (2600016041), Ni'mah Laeli Sundari (2600016004) | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
 **Template**: TPL-01
 
 > **Petunjuk**: Hapus teks dalam `[...]` dan huruf miring setelah diisi.
@@ -11,7 +11,7 @@
 
 ## 1. Profil Organisasi / Unit Usaha
 
-- **Nama unit usaha**: [nama]
+- **Nama unit usaha**: [Wash Smile Laundry]
 - **Jenis usaha / layanan**: [mis. kantin kampus, warung, koperasi, unit layanan kampus]
 - **Lokasi**: [lokasi]
 - **Deskripsi singkat operasional**: [apa yang dilakukan, siapa pengguna, kapan beroperasi]
