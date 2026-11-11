@@ -259,7 +259,7 @@ apa jika masalahnya nota yang dicatat manual] | [memperbaiki kata-kata deskripsi
 | Artefak | Yang Dicek Ulang Manual | Cara Verifikasi |
 |---|---|---|
 | D1 | [Data/ perhitungan yang digunakan 
-dari WS sebelumnya] | [Mengecek ulang informasi dan mencocokkan data sumber infprmasi] |
+dari WS sebelumnya]                     | [Mengecek ulang informasi dan mencocokkan data sumber informasi] |
 | D2 | ... | ... |
 | D3 | [sintaks & logika] | [jalankan di mesin, uji kasus] |
 | D4 | [fakta & bahasa] | [cek kebenaran isi] |
