@@ -244,12 +244,13 @@ Related Files:
 *Dipenuhi dari hasil WS15.*
 
 ## AI Usage Disclosure & Verification Note
-**Project**:  | **Tim**: Lauvi | **Tanggal**: [DD/MM/YYYY]
+**Project**:  | **Tim**: Lauvi | **Tanggal**: [11-11-2026]
 
 ### 1. Daftar Penggunaan AI
 | Artefak | Tool AI | Bagian yang Dibantu | Modifikasi yang Dilakukan |
 |---|---|---|---|
-| D1 | [nama tool] | [bagian] | [cara modifikasi] |
+| D1 | [Gemini ai] | [Deskripsi singkat operasional di loundri itu di isi
+apa jika masalahnya nota yang dicatat manual] | [merubah kata-kata deskripsi singkat operasional tentang masalah nota yang dicatat manual] |
 | D2 | ... | ... | ... |
 | D3 | ... | ... | ... |
 | D4 | ... | ... | ... |
