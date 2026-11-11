@@ -28,8 +28,8 @@ Related Files:
 *Dipenuhi dari hasil WS02–WS04.*
 
 ## Problem Brief
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — [Wash Smile Laundry]
+**Tim**: [Aulia Safitri] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
 
 ### 1. User / Context
 - Nama unit usaha / organisasi: [nama]
@@ -244,7 +244,7 @@ Related Files:
 *Dipenuhi dari hasil WS15.*
 
 ## AI Usage Disclosure & Verification Note
-**Project**: ... | **Tim**: ... | **Tanggal**: [DD/MM/YYYY]
+**Project**:  | **Tim**: Lauvi | **Tanggal**: [DD/MM/YYYY]
 
 ### 1. Daftar Penggunaan AI
 | Artefak | Tool AI | Bagian yang Dibantu | Modifikasi yang Dilakukan |
