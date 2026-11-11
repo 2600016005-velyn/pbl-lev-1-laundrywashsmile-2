@@ -40,8 +40,8 @@
 
 | Indikator | Nilai/Baseline | Sumber Data | Tanggal |
 |---|---|---|---|
-| [mis. waktu layanan rata-rata] | [angka] | [swawancara] | [DD/MM] |
-| [mis. jumlah transaksi per hari] | [angka] | [observasi] | [DD/MM] |
+| [mis. waktu layanan rata-rata] | [angka] | [wawancara] | [23-10-2026] |
+| [mis. jumlah transaksi per hari] | [angka] | [observasi] | [9-10-2026] |
 | [tambah baris jika perlu] | | | |
 
 ## 5. Pernyataan Kebutuhan Awal (ringkasan ke D2)
