@@ -14,7 +14,7 @@
 - **Masalah yang diselesaikan**: [ proyek yang dikerjakan pada penelitian ini adalah pembuatan Website Sistem Reminder Pakaian Yang tidak di ambil Pada Laundry. Website ini dibuat untuk membantu pihak laundry dalam menangani permasalahan pelanggan yang tidak mengambil pakaian bisa dari 1 bulan ]
 - **Bentuk prototipe**: [ Customer Datang - Menimbang & Menyortir Pakaian - Melakukan Pembayaran di Kasir - Memilih Mesin & Program Cuci - Proses Cuci + Kering ( ± 1 Jam 10 Menit) - Melipat Pakaian - Customer Puas & Pergi ]
   
-- **Alur utama (input → proses → output)**:
+  Alur utama (input → proses → output):
  Nama pelanggan : aulia
  No. HP: 082323209094
  Pilih Paket: 1.Cuci-Strika (4500) 2.Strika (3500) 3.Cuci Kering (3000) 4. Express (7000)
