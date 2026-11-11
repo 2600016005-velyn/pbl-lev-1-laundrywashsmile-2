@@ -33,8 +33,7 @@
  Kembalian  : Rp. 0
  Status     : Dalam proses Pencucian
  
- =============================================================
-       
+ =============================================================      
        Terima Kasih atas Kepercayaan Anda di Wash smile!
        
 ## 2. Desain Singkat
