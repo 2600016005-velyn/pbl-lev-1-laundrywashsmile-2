@@ -13,6 +13,7 @@
 
 - **Masalah yang diselesaikan**: [ proyek yang dikerjakan pada penelitian ini adalah pembuatan Website Sistem Reminder Pakaian Yang tidak di ambil Pada Laundry. Website ini dibuat untuk membantu pihak laundry dalam menangani permasalahan pelanggan yang tidak mengambil pakaian bisa dari 1 bulan ]
 - **Bentuk prototipe**: [ Customer Datang - Menimbang & Menyortir Pakaian - Melakukan Pembayaran di Kasir - Memilih Mesin & Program Cuci - Proses Cuci + Kering ( ± 1 Jam 10 Menit) - Melipat Pakaian - Customer Puas & Pergi ]
+  
 - **Alur utama (input → proses → output)**:
  Nama pelanggan : aulia
  No. HP: 082323209094
@@ -21,9 +22,9 @@
  Berat (Kg): 8 Kg
  Total tagihan: Rp 36,000
  Uang Tunai Pembayaran: 36000
-===========================================================
-               NOTA TRANSAKSI WASH SMILE LAUNDRY
-============================================================
+  ====================================================
+          NOTA TRANSAKSI WASH SMILE LAUNDRY
+  ====================================================
  NO. Nota   : TRX20261111080027
  Pelanggan  : aulia (082323209094)
  Layanan    : Cuci Strika Reguler 
