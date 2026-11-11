@@ -1,7 +1,7 @@
 # D1 — Problem Brief
 
 **Project**: Digital Problem Framing Mini Project — [Wash Smile Laundry]
-**Tim**: Aulia Safitri (2600016030), Felyna Irma Najwa (2600016005), Fira Safitri (2600016042), Difa Lilensia (2600016041), Ni'mah Laeli Sundari (2600016004) | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Tim**: Aulia Safitri (2600016030), Felyna Irma Najwa (2600016005), Fira Safitri (2600016042), Difa Lilensia (2600016041), Ni'mah Laeli Sundari (2600016004) | **Tanggal**: [11 november 2026] | **Versi**: [v1.0]
 **Template**: TPL-01
 
 > **Petunjuk**: Hapus teks dalam `[...]` dan huruf miring setelah diisi.
@@ -33,26 +33,23 @@
 ## 4. Data Kuantitatif Pendukung|
 |Indikator | Nilai/Baseline | Sumber Data | Tanggal |
 |---|---|---|---|
-| [mis. waktu pelayanan] | [4] | [wawancara] | [23 oktober 2026] |
-| [mis. jumlah transaksi per hari] | [7] | [observasi] | [ 9 oktober 2026] |
-| [] | | | |
-
-
-| Indikator | Nilai/Baseline | Sumber Data | Tanggal |
-|---|---|---|---|
-| [mis. waktu layanan rata-rata] | [angka] | [wawancara] | [23-10-2026] |
-| [mis. jumlah transaksi per hari] | [angka] | [observasi] | [9-10-2026] |
-| [tambah baris jika perlu] | | | |
+| [rata-rata waktu transaksi perpelanggan] | [90-180 detik] | [wawancara] | [23 oktober 2026] |
+| [durasi rekapitulasi penjualan harian] | [30-45 menit/shif] | [observasi] | [ 9 oktober 2026] |
+| [ frekuensi kesalahan pencatatan /selisih] |[1-2 kali per minggu] | |[observasi] |[ 9 oktober 2026]
+| [ jumlah pelanggan pada jam sibuk] | [ 15-25 /hari] | [wawancara] | [23-10-2026] |
 
 ## 5. Pernyataan Kebutuhan Awal (ringkasan ke D2)
 
 - Kebutuhan inti yang akan dijawab prototipe: [3–5 butir]
+- (1). sistem kasir python CLI
+- (2). web remainder
+- (3). flowchart dan kode pemrograman
 
 ## 6. Daftar Rujukan / Bukti
 
-- [Observasi lapangan tanggal ...]
-- [Wawancara pemilik tanggal ...]
-- [Dokumen pendukung lainnya]
+- [Observasi lapangan tanggal 9 oktober 2026]
+- [Wawancara pemilik tanggal 23 oktober 2026]
+- [Dokumen pendukung lainnya : https://drive.google.com/drive/folders/1mmEbSTEgC5r-RTSoJOhpEYLla53vEIda]
 
 ---
 
