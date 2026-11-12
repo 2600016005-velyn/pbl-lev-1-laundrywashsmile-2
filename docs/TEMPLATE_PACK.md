@@ -28,15 +28,15 @@ Related Files:
 *Dipenuhi dari hasil WS02–WS04.*
 
 ## Problem Brief
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — [Wash Smile Laundry]
+**Tim**: [Aulia Safitri] | **Tanggal**: [11-11-2026 | **Versi**: [v1.0]
 
 ### 1. User / Context
-- Nama unit usaha / organisasi: [nama]
-- Jenis usaha / layanan: [mis. kantin kampus, warung, koperasi]
-- Lokasi: [lokasi]
-- Deskripsi operasional: [apa yang dilakukan, siapa pengguna, kapan beroperasi]
-- Narahubung / pemilik: [nama, jabatan, kontak]
+- Nama unit usaha / organisasi: [washsmile laundry]
+- Jenis usaha / layanan: [Jasa Laundry Kiloan & Satuan]
+- Lokasi: [ Jl. Patih Singoranu Ruko A No. 171, Kragilan, Tamanan, Kec. Banguntapan, Kab. Bantul, D.I. Yogyakarta 55191 (±400 meter di belakang Kampus 4 UAD) ]
+- Deskripsi operasional: [Kegiatan operasional meliputi penerimaan pakaian, proses pencucian, pengeringan, penyetrikaan, hingga pengemasan dan penyerahan kepada pelanggan , Pelanggan, 07.00-23.00]
+- Narahubung / pemilik: [Nandya Aripta Sukma Yanti / +62 812-2591-6486 (Pemilik Usaha)]
 
 ### 2. Observed Situation (Situasi yang Diamati)
 - Fenomena yang diamati di lapangan: [...]
@@ -244,12 +244,13 @@ Related Files:
 *Dipenuhi dari hasil WS15.*
 
 ## AI Usage Disclosure & Verification Note
-**Project**: ... | **Tim**: ... | **Tanggal**: [DD/MM/YYYY]
+**Project**:  | **Tim**: Lauvi | **Tanggal**: [11-11-2026]
 
 ### 1. Daftar Penggunaan AI
 | Artefak | Tool AI | Bagian yang Dibantu | Modifikasi yang Dilakukan |
 |---|---|---|---|
-| D1 | [nama tool] | [bagian] | [cara modifikasi] |
+| D1 | [Gemini ai] | [Deskripsi singkat operasional di laudry itu di isi
+apa jika masalahnya nota yang dicatat manual] | [memperbaiki kata-kata deskripsi singkat operasional tentang masalah nota yang dicatat manual] |
 | D2 | ... | ... | ... |
 | D3 | ... | ... | ... |
 | D4 | ... | ... | ... |
@@ -257,14 +258,15 @@ Related Files:
 ### 2. Verification Note
 | Artefak | Yang Dicek Ulang Manual | Cara Verifikasi |
 |---|---|---|
-| D1 | [angka/klaim] | [hitung ulang, cek sumber] |
+| D1 | [Data/ perhitungan yang digunakan 
+dari WS sebelumnya]                     | [Mengecek ulang informasi dan mencocokkan data sumber informasi] |
 | D2 | ... | ... |
 | D3 | [sintaks & logika] | [jalankan di mesin, uji kasus] |
 | D4 | [fakta & bahasa] | [cek kebenaran isi] |
 
 ### 3. Pernyataan Kejujuran
 Kami menyatakan daftar di atas lengkap dan jujur. Seluruh output AI telah dianalisis, dimodifikasi, dan diverifikasi secara manual.
-Tanda tangan seluruh anggota: [nama] / [nama] / [nama] / [nama]
+Tanda tangan seluruh anggota: [Aulia Safitri (2600016030), Felyna Irma Najwa (2600016005), Fira Safitri (2600016042), Difa Lilensia (2600016041), Ni'mah Laeli Sundari (2600016004) ]
 
 ## TPL-08 — Template Decision Log (Supporting Evidence)
 *Dipenuhi dari hasil WS08, WS12, WS15.*
