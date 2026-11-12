@@ -40,6 +40,7 @@ transaksi per pelanggan] | [60-90 detik] | [<30 detik] | [Stopwatch sampel 10 tr
 ### 4.1 Konsep Solusi (ringkasan)
 
 _[Satu paragraf bagaimana prototipe menjawab masalah dari D1]_
+Dalam proyek ini kita menggunakan sistem nota secara digital dengan menggunakan kode program kasir & manajemen laundry berbasis python (CLI)
 
 ### 4.2 Peta Komponen (IPO)
 
