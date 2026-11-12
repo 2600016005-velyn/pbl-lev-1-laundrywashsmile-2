@@ -249,8 +249,7 @@ Related Files:
 ### 1. Daftar Penggunaan AI
 | Artefak | Tool AI | Bagian yang Dibantu | Modifikasi yang Dilakukan |
 |---|---|---|---|
-| D1 | Gemini AI | Deskripsi singkat operasional di laudry itu di isi
-apa jika masalahnya nota yang dicatat manual | Memperbaiki kata-kata deskripsi singkat operasional tentang masalah nota yang dicatat manual|
+| D1 | Gemini AI | Deskripsi singkat operasional di laudry itu di isi apa jika masalahnya nota yang dicatat manual | Memperbaiki kata-kata deskripsi singkat operasional tentang masalah nota yang dicatat manual|
 | D2 | ... | ... | ... |
 | D3 | ... | ... | ... |
 | D4 | ... | ... | ... |
