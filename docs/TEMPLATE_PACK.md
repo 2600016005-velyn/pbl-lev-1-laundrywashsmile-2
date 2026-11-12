@@ -244,13 +244,13 @@ Related Files:
 *Dipenuhi dari hasil WS15.*
 
 ## AI Usage Disclosure & Verification Note
-**Project**:  | **Tim**: Lauvi | **Tanggal**: [11-11-2026]
+**Project**:.....  | **Tim**: Lauvi | **Tanggal**: 11-11-2026
 
 ### 1. Daftar Penggunaan AI
 | Artefak | Tool AI | Bagian yang Dibantu | Modifikasi yang Dilakukan |
 |---|---|---|---|
-| D1 | [Gemini ai] | [Deskripsi singkat operasional di laudry itu di isi
-apa jika masalahnya nota yang dicatat manual] | [memperbaiki kata-kata deskripsi singkat operasional tentang masalah nota yang dicatat manual] |
+| D1 | Gemini AI | Deskripsi singkat operasional di laudry itu di isi
+apa jika masalahnya nota yang dicatat manual | Memperbaiki kata-kata deskripsi singkat operasional tentang masalah nota yang dicatat manual|
 | D2 | ... | ... | ... |
 | D3 | ... | ... | ... |
 | D4 | ... | ... | ... |
@@ -258,8 +258,8 @@ apa jika masalahnya nota yang dicatat manual] | [memperbaiki kata-kata deskripsi
 ### 2. Verification Note
 | Artefak | Yang Dicek Ulang Manual | Cara Verifikasi |
 |---|---|---|
-| D1 | [Data/ perhitungan yang digunakan 
-dari WS sebelumnya]                     | [Mengecek ulang informasi dan mencocokkan data sumber informasi] |
+| D1 | Data/ perhitungan yang digunakan 
+dari WS sebelumnya | Mengecek ulang informasi dan mencocokkan data sumber informasi |
 | D2 | ... | ... |
 | D3 | [sintaks & logika] | [jalankan di mesin, uji kasus] |
 | D4 | [fakta & bahasa] | [cek kebenaran isi] |
