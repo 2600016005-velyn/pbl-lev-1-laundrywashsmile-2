@@ -1,6 +1,6 @@
 # D2 — System & Solution Design
 
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
+**Project**: Digital Problem Framing Mini Project — [Wash Smile Laundry]
 **Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
 **Template**: TPL-02
 

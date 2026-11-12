@@ -17,7 +17,7 @@
 | **Elemen Informasi**          | **Rincian Identitas Kelompok & Mitra** |
 | ----------------------------- | -------------------------------------- |
 | **Nama Kelompok / Kelas**     | \[ Lauvi / A \]                        |
-| **Phase Lead 2 (Frame - M2)** | \[ Fira Safitra (2600016042) \]        |
+| **Phase Lead 2 (Frame - M2)** | \[ Fira Safitri (2600016042) \]        | 
 | **Nama UMKM Mitra Lapangan**  | \[ Wash Smile Laundry \]               |
 | **Pemilik / Kontak Mitra**    | \[ Nandya Aripta Sukma Yanti \]        |
 

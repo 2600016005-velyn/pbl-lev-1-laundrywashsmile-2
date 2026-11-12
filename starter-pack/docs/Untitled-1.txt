@@ -1,0 +1,74 @@
+   id_trx, tgl_trx, nama_pelanggan, no_hp, kode_layanan, nama_layanan, status_cucian : STRING
+   berat_kg, tarif_per_kg, subtotal, total_bayar, uang_tunai, kembalian : REAL
+   stok_deterjen_ml, stok_pewangi_ml, deterjen_butuh, pewangi_butuh : REAL
+   MAX_KAPASITAS_MESIN : CONST REAL = 8.0
+
+ALUR LOGIKA:
+   START
+   CALL Inisialisasi_Basis_Data()
+   
+   PRINT "=== INPUT TRANSAKSI BARU WASH SMILE LAUNDRY ==="
+   READ nama_pelanggan, no_hp
+   
+   PRINT "Pilih Paket: 1.Cuci-Setrika (4500) | 2.Setrika (3500) | 3.Cuci Kering (3000) | 4.Express (7000)"
+   READ kode_layanan
+   
+   CASE kode_layanan OF
+      '1': nama_layanan = "Cuci Setrika Reguler"; tarif_per_kg = 4500
+      '2': nama_layanan = "Setrika Saja"; tarif_per_kg = 3500
+      '3': nama_layanan = "Cuci Kering"; tarif_per_kg = 3000
+      '4': nama_layanan = "Express Cuci Setrika"; tarif_per_kg = 7000
+      DEFAULT: PRINT "ERROR: Kode layanan tidak valid!"; EXIT
+   ENDCASE
+   
+   READ berat_kg
+   IF berat_kg <= 0 THEN
+      PRINT "ERROR: Berat pakaian harus lebih besar dari 0 kg!"
+      EXIT
+   ENDIF
+   
+   IF berat_kg > MAX_KAPASITAS_MESIN THEN
+      PRINT "PERINGATAN: Beban cucian melebihi kapasitas maksimal mesin (8.0 kg)!"
+      PRINT "Sesuai SOP 1 Mesin 1 Pelanggan, cucian disarankan dipisah menjadi 2 mesin."
+   ENDIF
+   
+   deterjen_butuh = berat_kg * 100   {100 ml per kg}
+   pewangi_butuh  = berat_kg * 50    {50 ml per kg}
+   
+   IF (stok_deterjen_ml < deterjen_butuh) OR (stok_pewangi_ml < pewangi_butuh) THEN
+      PRINT "PERINGATAN: Persediaan bahan baku menipis! Harap segera lakukan restock."
+   ENDIF
+   
+   subtotal = berat_kg * tarif_per_kg
+   total_bayar = subtotal
+   PRINT "Total Tagihan: Rp ", total_bayar
+   
+   READ uang_tunai
+   IF uang_tunai >= total_bayar THEN
+      kembalian = uang_tunai - total_bayar
+      stok_deterjen_ml = stok_deterjen_ml - deterjen_butuh
+      stok_pewangi_ml  = stok_pewangi_ml - pewangi_butuh
+      status_cucian = "Dalam Proses Pencucian"
+      id_trx = Generate_ID_Transaksi()
+      
+      CALL Simpan_Transaksi_CSV(id_trx, tgl_trx, nama_pelanggan, no_hp, nama_layanan, berat_kg, total_bayar, uang_tunai, kembalian, status_cucian)
+      CALL Update_Stok_CSV(stok_deterjen_ml, stok_pewangi_ml)
+      
+      PRINT "=================================================="
+      PRINT "        NOTA TRANSAKSI WASH SMILE LAUNDRY        "
+      PRINT "=================================================="
+      PRINT "No. Nota   : ", id_trx
+      PRINT "Pelanggan  : ", nama_pelanggan, " (", no_hp, ")"
+      PRINT "Layanan    : ", nama_layanan
+      PRINT "Berat      : ", berat_kg, " kg"
+      PRINT "Total      : Rp ", total_bayar
+      PRINT "Bayar      : Rp ", uang_tunai
+      PRINT "Kembalian  : Rp ", kembalian
+      PRINT "Status     : ", status_cucian
+      PRINT "=================================================="
+      PRINT "Terima Kasih atas Kepercayaan Anda di Wash Smile! "
+   ELSE
+      PRINT "ERROR: Uang tunai pembayaran kurang Rp ", (total_bayar - uang_tunai)
+      PRINT "Transaksi dibatalkan. Data tidak disimpan."
+   ENDIF
+   END
