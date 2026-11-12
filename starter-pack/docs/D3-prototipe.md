@@ -1,7 +1,13 @@
 # D3 — Dokumentasi Prototipe & Hasil Uji
 
 **Project**: Digital Problem Framing Mini Project — Wash Smile Laundry
-**Tim**: Felyna Irma Najwa (2600016005), Aulia Safitri (2600016030), Ni'mah Laeli Sundari (2600016004), Fira Safitri (2600016042), Difa Lilensia (2600016041)| **Tanggal**: 11/11/2026 | **Versi**: [v1.0]
+**Tim**: 
+Felyna Irma Najwa (2600016005), 
+Aulia Safitri (2600016030), 
+Ni'mah Laeli Sundari (2600016004), 
+Fira Safitri (2600016042), 
+Difa Lilensia (2600016041)
+| **Tanggal**: 11/11/2026 | **Versi**: [v1.0]
 **Template**: TPL-03
 
 > **Petunjuk**: Hapus teks dalam `[...]` dan huruf miring setelah diisi.
