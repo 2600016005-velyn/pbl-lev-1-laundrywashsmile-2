@@ -35,7 +35,7 @@
 |---|---|---|---|
 | [rata-rata waktu transaksi perpelanggan] | [90-180 detik] | [wawancara] | [23 oktober 2026] |
 | [durasi rekapitulasi penjualan harian] | [30-45 menit/shif] | [observasi] | [ 9 oktober 2026] |
-| [ frekuensi kesalahan pencatatan /selisih] |[1-2 kali per minggu] | |[observasi] |[ 9 oktober 2026]
+| [ frekuensi kesalahan pencatatan /selisih] |[1-2 kali per minggu] | |[observasi] | [ 9 oktober 2026]
 | [ jumlah pelanggan pada jam sibuk] | [ 15-25 /hari] | [wawancara] | [23-10-2026] |
 
 ## 5. Pernyataan Kebutuhan Awal (ringkasan ke D2)
